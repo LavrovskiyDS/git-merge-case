@@ -8,7 +8,9 @@
 </head>
 
 <body>
-    <?php var_dump()?>
+
+    <?php var_dump(index)?>
+    1111
 </body>
 
 </html>
