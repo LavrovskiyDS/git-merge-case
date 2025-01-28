@@ -11,6 +11,9 @@
 
     <?php var_dump(index)?>
     1111
+
+    22
+    2222
 </body>
 
 </html>
